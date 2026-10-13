@@ -13,9 +13,9 @@ administrative effort, reduce resource utilization, and disrupt the academic exp
 both students and teaching staff.
 
 ## Documents
-- [Problem statement](problem-statement.md)
-- [Requirements](requirements.md)
-- [User stories](user-stories.md)
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
 
 ## Status
 Planning (CSC649, Week 2)
