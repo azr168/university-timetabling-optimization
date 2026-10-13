@@ -9,5 +9,4 @@ manual data entry errors.
 constraint rules, so that I can automatically generate an optimized, conflict-free timetable 
 in minutes.
 3. As a department scheduler, I want to visually inspect and export the generated timetable 
-into PDF or CSV format, so that I can verify schedule quality and distribute it to teaching 
-staff and students.
+into PDF or CSV format, so that I can verify schedule quality and distribute it to teaching staff and students.
